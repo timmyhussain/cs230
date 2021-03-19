@@ -1,0 +1,1 @@
+accidentally did not remove second network so essentially target q value is r(s, a) + random_action
